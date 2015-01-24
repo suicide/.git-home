@@ -3,3 +3,5 @@
 	name = suicide
 [core]
 	autocrlf = input
+[credential]
+	helper = cache --timeout=3600
